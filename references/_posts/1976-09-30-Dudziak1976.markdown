@@ -1,0 +1,18 @@
+---
+title:  "Empirical SBM data from nuclear detonation photography"
+date:   1976-09-30 00:00:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "Walter Dudziak"
+authors: "Walter Dudziak, D.I. Devan"
+venue: "Technical Report DNA-4132F"
+bib: |
+  @techreport{Dudziak1976,
+  author = {W. F. Dudziak and D. I. Devan},
+  title = {Empirical SBM data from nuclear detonation photography},
+  number = {DNA-4132},
+  institution = {Defense Nuclear Agency},
+  year = {1976}
+  }
+---
+Brief description of another project.

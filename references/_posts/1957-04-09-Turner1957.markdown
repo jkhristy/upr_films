@@ -1,0 +1,22 @@
+---
+title:  "Buoyant vortex rings"
+date:   1957-04-09 00:00:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "John Turner"
+authors: "John Turner"
+venue: "Proceedings of the Royal Society A"
+page_url: https://doi.org/10.1098/rspa.1957.0022
+bib: |
+  @article{Turner1957,
+  author = {John Stewart Turner},
+  title = {Buoyant vortex rings},
+  journal = {Proceedings of the Royal Society A},
+  volume = {239},
+  pages = {61-75},
+  address = {London},
+  month = {4},
+  year = {1957}
+  }
+---
+Brief description of another project.

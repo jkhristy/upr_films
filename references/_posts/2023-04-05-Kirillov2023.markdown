@@ -1,0 +1,22 @@
+---
+title:  "Segment Anything"
+date:   2023-04-05 00:00:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "Alexander Kirillov"
+authors: "Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alex Berg, Wan-Yen Lo, Piotr Dollar, Ross Girshick"
+venue: "International Conference on Computer Vision"
+page_url: https://arxiv.org/pdf/2304.02643
+bib: |
+  @INPROCEEDINGS{Kirillov2023,
+  author = {A. Kirillov and E. Mintun and N. Ravi and H. Mao and C. Rolland and L. Gustafson and T. Xiao and S. Whitehead and A. C. Berg and W. Y. Lo and P. Doll{\`a}r and R. Girshick},
+  booktitle = {2023 IEEE/CVF International Conference on Computer Vision (ICCV)}, 
+  title = {{Segment Anything}},
+  address = {Paris},
+  year = {2023},
+  pages = {3992-4003},
+  }
+links:
+  code: https://github.com/facebookresearch/segment-anything
+---
+Brief description of another project.

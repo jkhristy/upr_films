@@ -1,0 +1,19 @@
+---
+title:  "Yield Determination from Cloud Imagery: FY 2021 Report"
+date:   2021-07-12 09:26:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "Thomas Karnowski"
+authors: "Thomas Karnowski, Vincent Jodoin, Pablo Moresco>"
+venue: "Technical Report ORNL/TM-2021/2219"
+bib: |
+  @techreport{Karnowski2021,
+  author = {Thomas Karnowski and Vincent Jodoin and Pablo Moresco},
+  title = {{Yield Determination from Cloud Imagery: FY 2021 Report}},
+  number = {ORNL/TM-2021/2219},
+  institution = {Oak Ridge National Laboratory},
+  address = {Oak Ridge, TN},
+  year = {2021}
+  }
+---
+Brief description of another project.

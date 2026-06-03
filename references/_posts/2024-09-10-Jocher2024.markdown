@@ -1,0 +1,18 @@
+---
+title:  "YOLO11"
+date:   2024-09-10 00:00:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "Glenn Jocher"
+authors: "Glenn Jocher, Jing Qiu, Mengyu Liu, Shuai Lyu, Fatih Akyon, Muhammet Kalfaoglu"
+venue: "Ultralytics"
+bib: |
+  @misc{Jocher2024,
+  author = {Jocher, Glenn and Qiu, Jing and Liu, Mengyu and Lyu, Shuai and Akyon, Fatih Cagatay and Kalfaoglu, Muhammet Esat},
+  title = {{Ultralytics YOLO11}},
+  year = {2024}
+  }
+links:
+  code: https://github.com/ultralytics/ultralytics/tree/main
+---
+Brief description of another project.

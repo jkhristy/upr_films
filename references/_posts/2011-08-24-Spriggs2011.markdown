@@ -1,0 +1,19 @@
+---
+title:  "Scientific Objectives of Scanning Project"
+date:   2011-08-24 00:00:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "Gregory Spriggs"
+authors: "Gregory Spriggs, R Gaunt"
+venue: "Technical Report LLNL-PRES491856"
+bib: |
+  @TechReport{Spriggs2011,
+  author="G.D. Spriggs and R. Gaunt",
+  title="Scientific Objectives of Scanning Project",
+  institution="Lawrence Livermore National Laboratory",
+  address="Livermore, California",
+  number="LLNL-PRES491856",
+  year="2011"
+  }
+---
+Brief description of another project.

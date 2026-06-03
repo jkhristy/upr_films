@@ -1,0 +1,21 @@
+---
+title:  "A Vorticity Description of the Nuclear Cloud"
+date:   2022-06-12 00:00:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "Pablo Moresco"
+authors: "Pablo Moresco"
+venue: "Technical Report ORNL/TM-2021/2110"
+page_url: https://info.ornl.gov/sites/publications/Files/Pub161591.pdf
+bib: |
+  @techreport{Moresco2022,
+  author = {Pablo Moresco},
+  title = {{A Vorticity Description of the Nuclear Cloud}},
+  number = {ORNL/TM-2021/2110},
+  institution = {Oak Ridge National Laboratory},
+  address = {Oak Ridge, TN},
+  month = {6},
+  year = {2022}
+  }
+---
+Brief description of another project.

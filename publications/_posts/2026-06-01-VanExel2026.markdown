@@ -4,7 +4,7 @@ date:   2026-06-01 00:00:00 +00:00
 image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image-on-hover.jpg
 author: "Kim VanExel"
-authors: "Kim VanExel, Joel Khristy}, Pablo Moresco, Thomas Karnowski, Haley Duba-Sullivan, Samendra Sherchan"
+authors: "Kim VanExel, Joel Khristy, Pablo Moresco, Thomas Karnowski, Haley Duba-Sullivan, Samendra Sherchan"
 venue: "SPIE Defense + Security"
 page_url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14048.toc
 bib: |

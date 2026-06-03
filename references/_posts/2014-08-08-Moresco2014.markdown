@@ -1,0 +1,20 @@
+---
+title:  "Vorticity generation by the instantaneous release of energy near a reflective boundary"
+date:   2014-08-08 00:00:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "Pablo Moresco"
+authors: "Pablo Moresco, T.E. Harris, Vincent Jodoin"
+venue: "Physical Review E"
+page_url: https://doi.org/10.1103/PhysRevE.90.023002
+bib: |
+  @article {Moresco2014,
+  author = {Pablo Moresco and T. E. Harris and Vincent Jodoin},
+  title = {Vorticity generation by the instantaneous release of energy near a reflective boundary},
+  journal = {Phys. Rev. E},
+  volume = {90},
+  year = {2014},
+  pages = {023002}
+  }
+---
+Brief description of another project.

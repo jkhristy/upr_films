@@ -1,0 +1,21 @@
+---
+title:  "Mask R-CNN"
+date:   2017-10-22 00:00:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "Kaiming He"
+authors: "Kaiming He, Georgia Gkioxari, Piotr Dollar, Ross Girshick"
+venue: "International Conference on Computer Vision"
+page_url: https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf
+bib: |
+  @INPROCEEDINGS{He2017,
+    author = {K. He and G. Gkioxari and P. Doll{\`a}r and R. Girshick},
+    booktitle = {2017 IEEE International Conference on Computer Vision (ICCV)}, 
+    title = {{Mask R-CNN}}, 
+    address = {Venice},
+    month = {10},
+    year = {2017},
+    pages = {2980-2988},
+  }
+---
+Brief description of another project.

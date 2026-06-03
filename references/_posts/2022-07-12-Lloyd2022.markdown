@@ -1,0 +1,19 @@
+---
+title:  "Yield Determination from Cloud Imagery: FY 2022 Report"
+date:   2022-07-12 09:26:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "Cody Lloyd"
+authors: "Cody Lloyd, Thomas Karnowski, Vincent Jodoin, Pablo Moresco"
+venue: "Technical Report ORNL/TM2022/2793"
+bib: |
+  @techreport{Lloyd2022,
+  author = {C. Lloyd and T. Karnowski and V. Jodoin and P. Moresco},
+  title = {{Yield Determination from Cloud Imagery: FY 2022 Report}},
+  number = {ORNL/TM2022/2793},
+  institution = {Oak Ridge National Laboratory},
+  address = {Oak Ridge, TN},
+  year = {2022}
+  }
+---
+Brief description of another project.

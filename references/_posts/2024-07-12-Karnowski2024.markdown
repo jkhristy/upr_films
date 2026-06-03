@@ -1,0 +1,19 @@
+---
+title:  "Comparison of Autoextracted Features from Film with Simulation for Fireball and Early Cloud Rise for a Surface Detonation"
+date:   2024-07-12 09:26:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "Thomas Karnowski"
+authors: "Thomas Karnowski, Annie Dallman, Linda Hansen, Vincent Jodoin, Yuliya Kanarska, Joel Khristy, Pablo Moresco, Joseph Morris, Haley Duba-Sullivan, Marc Welliver"
+venue: "Technical Report ORNL/SPR-2024/15"
+bib: |
+  @techreport{Karnowski2024,
+  author = {T. Karnowski and A. Dallman and L. Hansen and V. Jodoin and Y. Kanarska and J. Khristy and P. Moresco and J. Morris and H. Sullivan and M. Welliver},
+  title = {{Comparison of Autoextracted Features from Film with Simulation for Fireball and Early Cloud Rise for a Surface Detonation}},
+  number = {ORNL/SPR-2024/15},
+  institution = {Oak Ridge National Laboratory},
+  address = {Oak Ridge, TN},
+  year = {2024}
+  }
+---
+Brief description of another project.
