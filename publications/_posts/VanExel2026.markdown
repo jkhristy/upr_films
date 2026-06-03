@@ -1,0 +1,21 @@
+---
+title:  "YOLO11 to SAM2 pipeline for feature extraction from nuclear test films"
+date:   2026-06-01 00:00:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "Kim VanExel"
+authors: "Kim VanExel, Joel Khristy}, Pablo Moresco, Thomas Karnowski, Haley Duba-Sullivan, Samendra Sherchan"
+venue: "SPIE Defense + Security"
+bib: |
+  @conference{Vanexel2026,
+  author = {Kim VanExel and Joel Khristy and Pablo Moresco and Thomas Karnowski and Haley Duba-Sullivan and Samendra Sherchan},
+  booktitle = {Proceedings of SPIE 14048: Chemical, Biological, Radiological, Nuclear, and Explosives Sensing XXVII},
+  title = {{YOLO11} to {SAM2} pipeline for feature extraction from nuclear test films},
+  volume = {140480W},
+  number = {26},
+  address = {National Harbor, MD},
+  month = {6},
+  year = {2026}
+  }
+---
+Brief description of the project.

@@ -1,0 +1,19 @@
+---
+title:  "TRACE: Threshold Refined Automated Contour Extraction from Historic Nuclear Test Films applied to Yield Estimation"
+date:   2026-07-01 00:00:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "Haley Duba-Sullivan"
+authors: "Haley Duba-Sullivan, Joel Khristy, Thomas Karnowski, Pablo Moresco, Vincent Jodoin"
+venue: "Defense Research Review"
+bib: |
+  @article{Sullivan2026,
+  author = {Haley Duba-Sullivan and Joel Khristy and Thomas Karnowski and Pablo Moresco and Vincent Jodoin},
+  title = {{TRACE}: Threshold Refined Automated Contour Extraction from Historic Nuclear Test Films applied to Yield Estimation},
+  journal = {Defense Research Review},
+  address = {Los Alamos, NM},
+  note = {CUI//SP-EXPT//REL TO USA,GBR},
+  addendum = {expected July 2026}
+  }
+---
+Brief description of another project.

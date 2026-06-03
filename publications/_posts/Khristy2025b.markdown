@@ -1,0 +1,23 @@
+---
+title:  "Automated nuclear cloud feature extraction from film"
+date:   2025-05-00 00:00:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "Joel Khristy"
+authors: "Joel Khristy, Haley Duba-Sullivan, Thomas Karnowski, Pablo Moresco, Vincent Jodoin"
+venue: "SPIE Defense + Security"
+bib: |
+  @conference{Khristy2025b,
+  author = {Joel Khristy and Haley Duba-Sullivan and Thomas Karnowski and Pablo Moresco and Vincent Jodoin},
+  booktitle = {Proceedings of SPIE 13478: Chemical, Biological, Radiological, Nuclear, and Explosives Sensing XXVI},
+  title = {Automated nuclear cloud feature extraction from film},
+  volume = {134780W},
+  pages = {158--170},
+  address = {Orlando, FL},
+  day = {28},
+  month = {5},
+  year = {2025},
+  doi = {10.1117/12.3053705}
+  }
+---
+Brief description of the project.

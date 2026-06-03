@@ -1,0 +1,21 @@
+---
+title:  "Uncertainty quantification of fireball features extracted from nuclear test films using computer vision"
+date:   2026-06-01 00:00:01 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "Joel Khristy"
+authors: "Joel Khristy, Kim VanExel, Haley Duba-Sullivan, Thomas Karnowski, Pablo Moresco"
+venue: "SPIE Defense + Security"
+bib: |
+  @conference{Khristy2026,
+  author = {Joel Khristy and Kim VanExel and Haley Duba-Sullivan and Thomas Karnowski and Pablo Moresco},
+  booktitle = {Proceedings of SPIE 14048: Chemical, Biological, Radiological, Nuclear, and Explosives Sensing XXVII},
+  title = {Uncertainty quantification of fireball features extracted from nuclear test films using computer vision},
+  volume = {140480W},
+  number = {25},
+  address = {National Harbor, MD},
+  month = {6},
+  year = {2026}
+  }
+---
+Brief description of the project.
