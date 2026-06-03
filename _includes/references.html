@@ -1,4 +1,4 @@
-{% assign reference_posts = site.posts | contains: 'categories', 'publications' %}
+{% assign reference_posts = site.categories.references %}
 {% if reference_posts.size > 0 %}
 <div class="row py-2">
     <div class="col-md-12" id="references">
@@ -30,8 +30,8 @@
         {% if post.bib %}
         {% if need_separator %} / {% endif %}
         {% assign need_separator = true %}
-        <a href="" data-toggle="modal" data-target="#publicationBibModal{{forloop.index}}">bib</a>
-        <div class="modal fade" id="publicationBibModal{{forloop.index}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <a href="" data-toggle="modal" data-target="#referenceBibModal{{forloop.index}}">bib</a>
+        <div class="modal fade" id="referenceBibModal{{forloop.index}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog d-md-table" role="document">
                 <div class="modal-content">
                 <div class="modal-header">
