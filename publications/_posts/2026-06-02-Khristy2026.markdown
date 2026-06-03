@@ -1,6 +1,6 @@
 ---
 title:  "Uncertainty quantification of fireball features extracted from nuclear test films using computer vision"
-date:   2026-06-01 00:00:01 +00:00
+date:   2026-06-02 00:00:00 +00:00
 image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image-on-hover.jpg
 author: "Joel Khristy"

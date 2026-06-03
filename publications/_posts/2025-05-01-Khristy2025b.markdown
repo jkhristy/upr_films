@@ -1,6 +1,6 @@
 ---
 title:  "Automated nuclear cloud feature extraction from film"
-date:   2025-05-00 00:00:00 +00:00
+date:   2025-05-01 00:00:00 +00:00
 image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image-on-hover.jpg
 author: "Joel Khristy"
