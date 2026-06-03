@@ -20,7 +20,11 @@
             {{post.authors}}
         </div>
 
-        <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+        <em>{{post.venue}}</em>, 
+        {% if post.expected %}
+        {{post.expected}} 
+        {% endif %}
+        {{ post.date | date: "%B %Y" }}
         <br>
         {% assign need_separator = false %}
         {% if post.page_url %}

@@ -6,6 +6,7 @@ image_onhover: /publications/images/project-image-on-hover.jpg
 author: "Joel Khristy"
 authors: "Joel Khristy, Haley Duba-Sullivan, Thomas Karnowski, Pablo Moresco, Vincent Jodoin"
 venue: "SPIE Defense + Security"
+page_url: https://doi.org/10.1117/12.3053705
 bib: |
   @conference{Khristy2025b,
   author = {Joel Khristy and Haley Duba-Sullivan and Thomas Karnowski and Pablo Moresco and Vincent Jodoin},

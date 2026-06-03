@@ -6,6 +6,7 @@ image_onhover: /publications/images/project-image-on-hover.jpg
 author: "Kim VanExel"
 authors: "Kim VanExel, Joel Khristy}, Pablo Moresco, Thomas Karnowski, Haley Duba-Sullivan, Samendra Sherchan"
 venue: "SPIE Defense + Security"
+page_url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14048.toc
 bib: |
   @conference{Vanexel2026,
   author = {Kim VanExel and Joel Khristy and Pablo Moresco and Thomas Karnowski and Haley Duba-Sullivan and Samendra Sherchan},
