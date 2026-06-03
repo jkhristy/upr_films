@@ -21,10 +21,11 @@
         </div>
 
         <em>{{post.venue}}</em>, 
-        {% if post.expected %}
-        {{post.expected}} 
-        {% endif %}
+        {% if post.customdate %}
+        {{post.customdate}} 
+        {% else %}
         {{ post.date | date: "%B %Y" }}
+        {% endif %}
         <br>
         {% assign need_separator = false %}
         {% if post.page_url %}
