@@ -10,15 +10,16 @@ page_url: https://doi.org/10.1117/12.3053705
 bib: |
   @conference{Khristy2025b,
   author = {Joel Khristy and Haley Duba-Sullivan and Thomas Karnowski and Pablo Moresco and Vincent Jodoin},
-  booktitle = {Proceedings of SPIE 13478: Chemical, Biological, Radiological, Nuclear, and Explosives Sensing XXVI},
-  title = {Automated nuclear cloud feature extraction from film},
-  volume = {134780W},
-  pages = {158--170},
-  address = {Orlando, FL},
-  day = {28},
-  month = {5},
+  title = {{Automated nuclear cloud feature extraction from film}},
+  volume = {13478},
+  booktitle = {Chemical, Biological, Radiological, Nuclear, and Explosives (CBRNE) Sensing XXVI},
+  editor = {Jason A. Guicheteau and Christopher R. Howle and Tanya L. Myers},
+  organization = {International Society for Optics and Photonics},
+  publisher = {SPIE},
+  pages = {134780W},
   year = {2025},
-  doi = {10.1117/12.3053705}
+  doi = {10.1117/12.3053705},
+  URL = {https://doi.org/10.1117/12.3053705}
   }
 ---
 Brief description of the project.

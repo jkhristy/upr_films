@@ -6,17 +6,20 @@ image_onhover: /publications/images/project-image-on-hover.jpg
 author: "Kim VanExel"
 authors: "Kim VanExel, Joel Khristy, Pablo Moresco, Thomas Karnowski, Haley Duba-Sullivan, Samendra Sherchan"
 venue: "SPIE Defense + Security"
-page_url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14048.toc
+page_url: https://doi.org/10.1117/12.3094013
 bib: |
-  @conference{Vanexel2026,
+  @inproceedings{Vanexel2026,
   author = {Kim VanExel and Joel Khristy and Pablo Moresco and Thomas Karnowski and Haley Duba-Sullivan and Samendra Sherchan},
-  booktitle = {Proceedings of SPIE 14048: Chemical, Biological, Radiological, Nuclear, and Explosives Sensing XXVII},
-  title = {{YOLO11} to {SAM2} pipeline for feature extraction from nuclear test films},
-  volume = {140480W},
-  number = {26},
-  address = {National Harbor, MD},
-  month = {6},
-  year = {2026}
+  title = {{YOLO11 to SAM2 pipeline for feature extraction from nuclear test films}},
+  volume = {14048},
+  booktitle = {Chemical, Biological, Radiological, Nuclear, and Explosives (CBRNE) Sensing XXVII},
+  editor = {Christopher R. Howle and Tanya L. Myers and Christopher C. Carter},
+  organization = {International Society for Optics and Photonics},
+  publisher = {SPIE},
+  pages = {140480J},
+  year = {2026},
+  doi = {10.1117/12.3094013},
+  URL = {https://doi.org/10.1117/12.3094013}
   }
 ---
 Brief description of the project.
